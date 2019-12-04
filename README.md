@@ -38,3 +38,10 @@ Make sure you have a text editor like [Sublime](https://www.sublimetext.com/3)
 2. Next, make sure to link it in the head: `<link rel="stylesheet" href="style.css">`. 
 3. Now that we have our main landing `<div>`, let's give it some style: first let's give it a `class="your-class-here"` name. 
 4. For the `class` that you have created, let's give it some styling: 
+- Find a background image on [Unsplash](www.unsplash.com)
+- Give the `<div>` a `background-image: url();` and use the image you found. 
+- Next, give the `<div>` some `height` & `width`. 
+- Next, change the `color` of the text in the `<div>`. 
+- Next, let's `text-align: center;` the text in our `<div>`. 
+5. Give the `<h1>` in your page some styling: 
+- Let's play with the `padding-top` and move it lower on our background image. 
