@@ -30,7 +30,7 @@ Make sure you have a text editor like [Sublime](https://www.sublimetext.com/3)
 6. Now use a `<p>` for some text in your site. 
 7. Let's use a link in your HTML with an `<a>` tag.
 8. Lets put `<div>` tags around all of the content we've created so far.
-9. Feel free to include other HTML tags below your the `<div>` you've created.
+9. Feel free to include other HTML tags below your the `<div>` you've created + be creative!
 
 
 ### Challenge 2: CSS
@@ -45,3 +45,23 @@ Make sure you have a text editor like [Sublime](https://www.sublimetext.com/3)
 - Next, let's `text-align: center;` the text in our `<div>`. 
 5. Give the `<h1>` in your page some styling: 
 - Let's play with the `padding-top` and move it lower on our background image. 
+6. Let's add some more style to the other items on your page! Get creative! 
+
+
+### Challenge 3: Going Further
+1. Excellent, now look for a page you want to copy. 
+2. Start to law out the `HTML tags` on the page. 
+3. Next, begin to give the page some `CSS` and style! 
+
+
+### Challenge 4: Launch on Netlify 
+1. Sign up for [Netlify](www.netlify.com)
+2. Once you're logged in, drag the folder of code you made today into space on Netlify that says: `Want to deploy a new site without connecting to Git? Drag and drop your site folder here`
+3. Launch your website & share with your friends! 
+
+
+
+If you want to learn more about HTML & CSS, here are some great resources: 
+- [W3Schools | HTML](https://www.w3schools.com/tags/tag_img.asp)
+- [W3Schools | CSS](https://www.w3schools.com/css/)
+- [Codecademy's Online Tutorial](https://www.codecademy.com/catalog/language/html-css)
