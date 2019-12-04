@@ -59,7 +59,7 @@ Remember, to open your file on the web browser: right click your file & Open Wit
 
 ### Challenge 3: Going Further
 1. Excellent, now look for a page you want to copy. 
-2. Start to law out the `HTML tags` on the page. 
+2. Start to lay out the `HTML tags` on the page. 
 3. Next, begin to give the page some `CSS` and style! 
 
 
