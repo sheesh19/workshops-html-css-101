@@ -2,9 +2,11 @@
 
 ## Let's get familiar with HTML + CSS and build a landing page. 
 
-Here are the Slides with Examples
+Here are the [Slides with Examples](https://drive.google.com/file/d/1vQWL5q2q5FwKucQ1Y795V8Uw1MaQc6uQ/view?usp=sharing)
 
 Make sure you have a text editor like [Sublime](https://www.sublimetext.com/3)
+
+Remember, to open your file on the web browser: right click your file & Open With: Chrome. 
 
 
 ### Challenge 1: HTML
