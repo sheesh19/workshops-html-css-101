@@ -1,4 +1,5 @@
-# Welcome to the Intro to HTML & CSS Workshop! 💎
+# Welcome to the Intro to HTML & CSS Workshop! 💅
+
 ## Let's get familiar with HTML + CSS and build a landing page. 
 
 Here are the Slides with Examples
