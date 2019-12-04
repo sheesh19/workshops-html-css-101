@@ -49,6 +49,12 @@ Remember, to open your file on the web browser: right click your file & Open Wit
 5. Give the `<h1>` in your page some styling: 
 - Let's play with the `padding-top` and move it lower on our background image. 
 6. Let's add some more style to the other items on your page! Get creative! 
+7. Want to add different fonts? Head to [Google Fonts](https://fonts.google.com/). 
+- Find a text you like. 
+- Copy the `link` tag & put it in your `<head>`. 
+- Update your `font-family` css attribute. 
+8. Next, import [Bootstrap](https://getbootstrap.com/). Make sure to link their `stylesheet` in your `<head>`!
+- Add some button styling!
 
 
 ### Challenge 3: Going Further
