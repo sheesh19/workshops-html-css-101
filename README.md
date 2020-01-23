@@ -48,19 +48,25 @@ Remember, to open your file on the web browser: right click your file & Open Wit
 - Next, let's `text-align: center;` the text in our `<div>`. 
 5. Give the `<h1>` in your page some styling: 
 - Let's play with the `padding-top` and move it lower on our background image. 
-6. Let's add some more style to the other items on your page! Get creative! 
-7. Want to add different fonts? Head to [Google Fonts](https://fonts.google.com/). 
+6. Let's add some more style to the other items on your page. Get creative! 
+- Check out some properties you can use to style your page: `color`, `background-color`, `font-size`, `object-fit: center,` `border`, `border-radius`, `padding`, `margin`, ``
+
+### Challenge 3: CSS - Advanced
+1. Want to add different fonts? Head to [Google Fonts](https://fonts.google.com/). 
 - Find a text you like. 
 - Copy the `link` tag & put it in your `<head>`. 
 - Update your `font-family` css attribute. 
-8. Next, import [Bootstrap](https://getbootstrap.com/). Make sure to link their `stylesheet` in your `<head>`!
+2. Next, import [Bootstrap](https://getbootstrap.com/). Make sure to link their `stylesheet` in your `<head>`! Remember to scroll down the main page and copy the CSS link under the heading: BootstrapCDN. 
 - Add some button styling!
+- Add in a navbar for your page. Remember to update the links of the navbar. See if you can link to another page you create.
+- Add cards to your page- checkout the Boostrap cards section.
+- Add a footer to your page. This may need some custom CSS. 
 
 
 ### Challenge 3: Going Further
-1. Excellent, now look for a page you want to copy. 
+1. Excellent, now look for a webpage you want to copy. 
 2. Start to lay out the `HTML tags` on the page. 
-3. Next, begin to give the page some `CSS` and style! 
+3. Next, begin to give the page some `CSS` and style! Try to make the styling as close as possible to the page. 
 
 
 ### Challenge 4: Launch on Netlify 
